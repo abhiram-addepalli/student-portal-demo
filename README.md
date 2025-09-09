@@ -1,2 +1,2 @@
 # student-portal-demo
-Student portal details
+Student portal details for college admissions.
